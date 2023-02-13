@@ -1,0 +1,10 @@
+[package]
+name = "hotkey"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hotkey="0.3.1" 
+enigo = { git = "https://github.com/enigo-rs/enigo" }
